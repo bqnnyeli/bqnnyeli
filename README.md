@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://64.media.tumblr.com/c6b2f5783f81f089da9806a86cf4010c/c886a11b82b5b0ee-01/s2048x3072/ad5883f9a39ea131dec415ec5168c7154f3ed6aa.png" width="450">
+<img src="https://64.media.tumblr.com/c6b2f5783f81f089da9806a86cf4010c/c886a11b82b5b0ee-01/s2048x3072/ad5883f9a39ea131dec415ec5168c7154f3ed6aa.png" width="400">
 
 <br>
 
-<img src="https://cdn.discordapp.com/attachments/1370699790555549771/1483545659951939675/Untitled39_20260317212035.png?ex=69bafb10&is=69b9a990&hm=74cbcb633e7b92faff83029c528a4d992911421d03a0dfa506f9026fb31121be" width="350">
+<img src="https://cdn.discordapp.com/attachments/1370699790555549771/1483545659951939675/Untitled39_20260317212035.png?ex=69bafb10&is=69b9a990&hm=74cbcb633e7b92faff83029c528a4d992911421d03a0dfa506f9026fb31121be" width="300">
 
 <br>
 
@@ -20,6 +20,6 @@
 
 <br>
 
-<img src="https://64.media.tumblr.com/485f18b5ff1820056142b1a43c3af74d/ac393692f47cfae7-14/s2048x3072/3b6f84d2065fba7a16d17b562645eacbb46ad26d.png" width="450">
+<img src="https://64.media.tumblr.com/485f18b5ff1820056142b1a43c3af74d/ac393692f47cfae7-14/s2048x3072/3b6f84d2065fba7a16d17b562645eacbb46ad26d.png" width="400">
 
 </div>
