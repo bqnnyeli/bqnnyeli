@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&size=30&font=Playfair+Display&weight=500&duration=2500&pause=800&width=700&lines=of+five+people...;three+must+pay+a+price.;you+are+one+of+them,;DAN+HENG." />
+<img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&size=30&font=Playfair+Display&weight=500&duration=2500&pause=800&width=700&lines=of+five+people...;three+must+pay+a+price.;YOU+are+one+of+them,;DAN+HENG." />
 
 <br>
 
