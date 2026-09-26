@@ -33,6 +33,3 @@
 
 </div>
 
-<h2 align="center">
-  <a href="./README.md" style="color: red;">Home / README Section</a>
-</h2>
