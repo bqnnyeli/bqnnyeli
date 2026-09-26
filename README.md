@@ -8,15 +8,9 @@
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=104E8B&center=true&vCenter=true&size=26&font=Playfair+Display&weight=500&duration=2500&pause=800&width=700&lines=You+chose+to+live+like+a+human.;And+now,+you'll+die+like+one!" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?color=104E8B&center=true&vCenter=true&size=26&font=Playfair+Display&weight=500&duration=2500&pause=800&width=700&lines=You+chose+to+live+like+a+human.;And+now,+you'll+die+like+one!" />
 
-<p>
-  <span style="color: #FF4D4D;"><a href="https://pronouns.cc/@bqnnyeli">PRONOUNS.CC</a></span> •
-  <span style="color: #FF4D4D;"><a href="https://splendideli.carrd.co/">CARRD</a></span> •
-  <span style="color: #FF4D4D;"><a href="https://github.com/bqnnyvani">HUBBY</a></span>
-</p>
+<br>
 
 <table border="0">
     <tr>
@@ -29,7 +23,13 @@
     </tr>
   </table>
 
-<img src="https://64.media.tumblr.com/834dcd7dae25efaf1ea80547434242de/5b35e80211cd7947-5b/s640x960/0030277e605a28e25ed0f3a2f3c774c9e3a31c19.gifv" width="350">
+<p>
+  <a href="https://pronouns.cc/@bqnnyeli">PRONOUNS.CC</a> •
+  <a href="https://splendideli.carrd.co/">CARRD</a> •
+  <a href="https://github.com/bqnnyvani">HUBBY</a>
+</p>
+
+<img src="https://64.media.tumblr.com/834dcd7dae25efaf1ea80547434242de/5b35e80211cd7947-5b/s640x960/0030277e605a28e25ed0f3a2f3c774c9e3a31c19.gifv" width="400">
 
 </div>
 
