@@ -23,3 +23,7 @@
 <img src="https://64.media.tumblr.com/4388cd1ad0aac29cbdf38537ea746269/e99172c5aa999abe-ea/s640x960/8817048bf82c7eb65864e58ad8df8547e8a75a88.gif" width="500">
 
 </div>
+
+<h2 align="center">
+  <a href="./EIN.md" style="color: #ff4d4d;">EIN Section</a>
+</h2>
