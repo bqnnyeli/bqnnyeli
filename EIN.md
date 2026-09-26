@@ -1,25 +1,29 @@
 <div align="center">
 
-<img src="https://64.media.tumblr.com/93296cb890beef867d759c9234fec54e/e99172c5aa999abe-5c/s640x960/49586387f7c0994f21c1b46c77e1fbedae953102.gif" width="500">
+<img src="https://64.media.tumblr.com/8632f15a14d3c7eea2f9dff9a11e8d7d/45f9e96f221c9f22-0c/s640x960/5f1f90d9f98899430ebe43221292745e7450e77d.gifv" width="450">
 
 <br>
 
-<img src="https://media1.tenor.com/m/c-iduzQS7aoAAAAC/honkai-star-rail-hsr.gif" width="500">
+<img src="https://media1.tenor.com/m/S3SBmz_UN4gAAAAd/aphmau-aphmau-ein.gif" width="350">
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=8B0000&center=true&vCenter=true&size=30&font=Playfair+Display&weight=500&duration=2500&pause=800&width=700&lines=of+five+people...;three+must+pay+a+price.;YOU+are+one+of+them,;DAN+HENG." />
-
-<br>
-
-<img src="https://media.tenor.com/qihqqtLdm6sAAAAi/renheng-xingyue.gif" width="67">
-
-<p>
-  <a href="https://pronouns.cc/@bqnnyeli">PRONOUNS.CC</a> •
-  <a href="https://splendideli.carrd.co/">CARRD</a> •
-  <a href="https://github.com/bqnnyvani">HUBBY</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=104E8B&center=true&vCenter=true&size=26&font=Playfair+Display&weight=500&duration=2500&pause=800&width=700&lines=You+chose+to+live+like+a+human.;And+now,+you'll+die+like+one!" />
 </p>
 
-<img src="https://64.media.tumblr.com/4388cd1ad0aac29cbdf38537ea746269/e99172c5aa999abe-ea/s640x960/8817048bf82c7eb65864e58ad8df8547e8a75a88.gif" width="500">
+<img src="https://media.tenor.com/tlcqGuCYReYAAAAi/ein-aphmau.gif" width="67">
+
+<p>
+  <span style="color: #FF4D4D;"><a href="https://pronouns.cc/@bqnnyeli">PRONOUNS.CC</a></span> •
+  <span style="color: #FF4D4D;"><a href="https://splendideli.carrd.co/">CARRD</a></span> •
+  <span style="color: #FF4D4D;"><a href="https://github.com/bqnnyvani">HUBBY</a></span>
+</p>
+
+<img src="https://media1.tenor.com/m/X5qMugNq4K8AAAAC/einron-aaron-aphmau.gif" width="100">
+
+<p></p>
+
+<img src="https://64.media.tumblr.com/834dcd7dae25efaf1ea80547434242de/5b35e80211cd7947-5b/s640x960/0030277e605a28e25ed0f3a2f3c774c9e3a31c19.gifv" width="450">
 
 </div>
