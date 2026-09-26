@@ -24,6 +24,3 @@
 
 </div>
 
-<h2 align="center">
-  <a href="./EIN.md" style="color: #ff4d4d;">EIN Section</a>
-</h2>
